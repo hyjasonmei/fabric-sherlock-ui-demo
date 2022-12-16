@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://hyjasonmei.github.io/fabric-sherlock-ui-demo/static/css/main.de00a6a4.css",
+    "main.js": "https://hyjasonmei.github.io/fabric-sherlock-ui-demo/static/js/main.26d26f2e.js",
+    "static/js/107.ba24facb.chunk.js": "https://hyjasonmei.github.io/fabric-sherlock-ui-demo/static/js/107.ba24facb.chunk.js",
+    "index.html": "https://hyjasonmei.github.io/fabric-sherlock-ui-demo/index.html",
+    "main.de00a6a4.css.map": "https://hyjasonmei.github.io/fabric-sherlock-ui-demo/static/css/main.de00a6a4.css.map",
+    "main.26d26f2e.js.map": "https://hyjasonmei.github.io/fabric-sherlock-ui-demo/static/js/main.26d26f2e.js.map",
+    "107.ba24facb.chunk.js.map": "https://hyjasonmei.github.io/fabric-sherlock-ui-demo/static/js/107.ba24facb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de00a6a4.css",
+    "static/js/main.26d26f2e.js"
+  ]
+}
